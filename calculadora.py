@@ -1,4 +1,4 @@
-#testCalculadora.py --- Calculadora aritmetica simple 
+#calculadora.py --- Calculadora aritmetica simple 
 import os
 
 # Funciones para la suma y resta de numeros ---

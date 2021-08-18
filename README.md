@@ -1,2 +1,2 @@
 ## Funciones !
-- Calculadora aritmética
+- Calculadora aritmética simple usando funciones
