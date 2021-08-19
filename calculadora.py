@@ -2,7 +2,6 @@
 import os
 
 # Funciones para la suma y resta de numeros ---
-
 def sumar(x, y):
     return x + y
 
@@ -10,7 +9,6 @@ def restar(x, y):
     return x - y
 
 # Funciones para la multiplicacion y division de numeros ---
-
 def multiplicar(x, y):
     return x * y
 
@@ -18,13 +16,11 @@ def dividir(x, y):
     return x / y
 
 # Pausa -------------------------------------------------------------------
-
 def pausa():
     print("Presiona <Enter> para continuar")
     input()
 
 # Suma de dos numeros -----------------------------------------------------
-
 def suma():
     os.system("clear")
     print("SUMA DE DOS NUMEROS")
@@ -38,7 +34,6 @@ def suma():
     pausa()
 
 # Resta de dos numeros -----------------------------------------------------
-
 def resta():
     os.system("clear")
     print("RESTA DE DOS NUMEROS")
@@ -51,7 +46,6 @@ def resta():
     pausa()
 
 # Multiplicacion dos numeros ------------------------------------------------
-
 def multiplica():
     os.system("clear")
     print("MULTIPLICACION DE DOS NUMEROS")
@@ -65,7 +59,6 @@ def multiplica():
     pausa()
 
 # División dos numeros ------------------------------------------------
-
 def divide():
     os.system("clear")
     print("DIVISIÓN DE DOS NUMEROS")
@@ -78,7 +71,6 @@ def divide():
     pausa()
 
 # Menu principal ----------------------------------------------------------
-
 def menu():
     os.system("clear")
     print("CALCULADORA ARITMETICA")
